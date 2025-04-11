@@ -1,13 +1,15 @@
-# Projeto e-Facsimile
-Buscar um protocolo de e-mail mais seguro.
+# Projeto e-Facsimile  
+Buscar um protocolo de e-mail mais seguro.  
 -----------------------------------------------------------------------
 >**Definições dos termos envolvidos;**
 >>'CORRESPONDÊNCIA POSTAL' ou simplesmente 'CORREIO':  
->>*"É um sistema que surgiu para transportar fisicamente cartões-postais, cartas e encomendas entre remetentes e destinatários."*
+>>*"É um sistema que surgiu para transportar fisicamente cartões-postais, cartas e encomendas entre remetentes e destinatários."*  
 >>  
 >>![ilustração](/assets/images/cartão_postal.png "Cartões") ![ilustração](/assets/images/cartas.png "Cartas")  
+>>
+>>  
 >>'FACSIMILE' ou simplesmente 'FAX':  
->>*"Outro sistema que surgiu da evolução do anterior, o termo em inglês, fax apareceu em 1948 como forma reduzida de facsimile, “reprodução, por meios fotomecânicos, de um texto ou imagem” – expressão de origem latina que significa “fazer igual, fazer uma cópia”, e que em português é grafada como “fac-símile”."*
+>>*"Outro sistema que surgiu da evolução do anterior, o termo em inglês, fax apareceu em 1948 como forma reduzida de facsimile, “reprodução, por meios fotomecânicos, de um texto ou imagem” – expressão de origem latina que significa “fazer igual, fazer uma cópia”, e que em português é grafada como “fac-símile”."*  
 >>  
 >>![ilustração](/assets/images/facsimile-fax.png "Facsimile")  
 
@@ -15,7 +17,7 @@ Buscar um protocolo de e-mail mais seguro.
 * E assim como após algum tempo os cartões-postais abertos evoluiram para 
 cartas sigilosas lacradas e depois surgiram tecnologias que permitiram 
 o envio das mensagens por meios eletronicos no formato de imagens dos 
-documentos atraves de linhas telefonicas. 
+documentos atraves de linhas telefonicas.
 Agora ao vivermos a era das mensagens enviadas digitalmente pelos 
 computadores, os chamados e-mail, que por analogia ao sistema tradicional 
 de envios, passou pela evolução daquele formato fisico para uma forma 
@@ -34,7 +36,7 @@ ________________________________________________________________________________
 
 ## Assim o então denominado **'e-fax'**, passará a ser a nova evolução do atual **'e-mail'**!  
 ![ilustação](/assets/images/e-fax_estilo.png "protocolo e-fax")  
-( *-permitindo que possamos continuar a utilizar esse recurso sem o transtorno que é atualmente o pesadelo ao abrir uma mensagem em nossa caixa postal virtual!* )
+( *-permitindo que possamos continuar a utilizar esse recurso sem o transtorno que é atualmente o pesadelo ao abrir uma mensagem em nossa caixa postal virtual!* )  
 
 ### Para garantir ao recurso de comunicação que possa seguir cumprindo seu papel sem que os vilões digitais estraguem toda esse nossa evolução.  
-![ilustação](/assets/images/Mailboxes.jpg "caixas postais")
+![ilustação](/assets/images/Mailboxes.jpg "caixas postais")  
