@@ -1,5 +1,5 @@
 # Projeto e-Facsimile  
-[Buscar um protocolo de e-mail mais seguro]  
+[ Buscar um protocolo de e-mail mais seguro ]  
 -----------------------------------------------------------------------
 >**Definições dos termos envolvidos;**
 >>'CORRESPONDÊNCIA POSTAL' ou simplesmente 'CORREIO':  
@@ -37,7 +37,7 @@ ________________________________________________________________________________
   
 :bulb:
 ### Assim o então denominado **'e-fax'**, passará a ser a nova evolução do atual **'e-mail'**!  
-<p style="text-align:center"><img src="/assets/images/e-fax_estilo.png" width="100" height="100"></p>  
+<img src="/assets/images/e-fax_estilo.png" width="100" height="100">  
 ( *-permitindo que possamos continuar a utilizar esse recurso sem o transtorno que é atualmente o pesadelo ao abrir uma mensagem em nossa caixa postal virtual!* )  
   
 :warning:
