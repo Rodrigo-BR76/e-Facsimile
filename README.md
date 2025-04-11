@@ -29,8 +29,9 @@ continuar a ter a sua evolução.
 1. ***a inserção de um hash que prove ao destinatário que a mensagem enviada pelo remetente não foi adulterada,***
 2. ***e depois publicar uma forma de provar que o remetente é realmente ele e não alguem que esteja se passando por ele.***
 
-# Assim o então denominado **'e-fax'** passara a ser a evolução do atual **'e-mail'**!  
+## Assim o então denominado **'e-fax'**, passará a ser a nova evolução do atual **'e-mail'**!  
 ![ilustação](/assets/images/e-fax_estilo.png "protocolo e-fax")
+(*-permitindo que possamos continuar a utilizar esse recurso sem o transtorno que é atualmente o pesadelo ao abrir uma mensagem em nossa caixa postal virtual!*)
 
 ### Para garantir ao recurso de comunicação que possa seguir cumprindo seu papel sem que os agora vilões digitais estraguem toda nossa evolução.  
 ![ilustação](/assets/images/Mailboxes.jpg "caixas postais")
