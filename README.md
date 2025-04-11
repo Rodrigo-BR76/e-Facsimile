@@ -12,7 +12,7 @@ Buscar um protocolo de e-mail mais seguro.
 "Outro sistema que surgiu da evolução do anterior, o termo em inglês, fax apareceu em 1948 como forma reduzida de facsimile, “reprodução, por meios fotomecânicos, de um texto ou imagem” – expressão de origem latina que significa “fazer igual, fazer uma cópia”, e que em português é grafada como “fac-símile”."
 
 ![ilustração](/assets/images/facsimile-fax.png "Facsimile")
------------------------------------------------------------------------
+
 
 * E assim como após algum tempo os cartões-postais abertos evoluiram para 
 cartas sigilosas lacradas e depois surgiram tecnologias que permitiram 
@@ -27,6 +27,7 @@ mas que também já ficou obsoleto e ultrapassado, e posteriormente substituido
 agora pela transmição via internet onde o envio dessas mesmas informações pelo 
 então atual e-mail, ainda muito vulneravel a ataques virtuais, mas que precisa 
 continuar a ter a sua evolução.
+
 ![ilustração](/assets/images/e44f570e28e3b7c8df68e2834929ad8b.jpg "segurança da época")
 
 ## Então pensei em uma forma simples de melhorar a confiabilidade dos recursos de troca de mensagens por IP, que seria inicialmente; 
@@ -34,8 +35,10 @@ continuar a ter a sua evolução.
 2. e depois publicar uma forma de provar que o remetente é realmente ele e não alguem que esteja se passando por ele.
 
 # Assim o então denominado **'e-fax'** passara a ser a evolução do atual **'e-mail'**!
+
 ![ilustação](/assets/images/e-fax_estilo.png "protocolo e-fax")
 
 
 ### Para garantir ao recurso de comunicação que possa seguir cumprindo seu papel sem que os agora vilões digitais estraguem toda nossa evolução.
-![ilustação](/assets/images/Mailboxes.jpg "caixas postais vulneraveis mais funcionais")
+
+![ilustação](/assets/images/Mailboxes.jpg "caixas postais")
