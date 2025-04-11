@@ -1,5 +1,5 @@
 ### Para atender a necessidade de comprovação de que a mensagem esta integra;  
-***deve haver a inserção de um hash, equivalente ao sumário digital do conteudo da mesagem, que prove ao destinatário que a mensagem enviada pelo remetente não foi adulterada!***  
+***deve haver a inserção de um hash, equivalente ao sumário digital do conteúdo da mesagem, que prove ao destinatário que a mensagem enviada pelo remetente não foi adulterada no trageto antes de ser recebida pelo servidor de e-fax!***  
   (essa informação será confrontada pelo destinatário ao receber a mensagem de 'e-fax' para aceitar a mensagem)  
 
 ---
