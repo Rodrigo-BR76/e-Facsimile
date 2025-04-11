@@ -1,7 +1,7 @@
 # e-Facsimile
 Buscar um protocolo de e-mail mais seguro.
 -----------------------------------------------------------------------
-Definições do termos envolvidos;
+Definições dos termos envolvidos;
 
 >'CORRESPONDÊNCIA POSTAL' ou simplesmente 'CORREIO':
 "É um sistema que surgiu para transportar fisicamente cartões-postais, 
@@ -28,14 +28,14 @@ agora pela internet o envio dessas mesmas informações pelo então atual
 e-mail, muito vulneravel a ataques virtuais, mas que precisa continuar a 
 ter a sua evolução.
 
-Então pensei em uma forma simples de melhorar a confiabilidade dos recursos 
+###Então pensei em uma forma simples de melhorar a confiabilidade dos recursos 
 de troca de mensagens por IP, que seria inicialmente a inserção de um hash 
 que prove ao destinatário que a mensagem enviada pelo remetente não foi 
 adulterada e depois também pensei que uma forma de provar que o remetente 
 é realmente ele e não alguem que esteja se passando por ele.
 
-Assim o então denominado 'e-fax' passara a ser a evolução do atual 'e-mail'!
+#Assim o então denominado 'e-fax' passara a ser a evolução do atual 'e-mail'!
 
-Para garantir ao recurso de comunicação que possa seguir cumprindo seu papel 
+##Para garantir ao recurso de comunicação que possa seguir cumprindo seu papel 
 sem que os agora vilões digitais estraguem toda nossa evolução.
 
