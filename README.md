@@ -1,13 +1,13 @@
 # e-Facsimile
 Buscar um protocolo de e-mail mais seguro.
 -----------------------------------------------------------------------
-Definições dos termos envolvidos;
+>Definições dos termos envolvidos;
 
->'CORRESPONDÊNCIA POSTAL' ou simplesmente 'CORREIO':
+>>'CORRESPONDÊNCIA POSTAL' ou simplesmente 'CORREIO':
 "É um sistema que surgiu para transportar fisicamente cartões-postais, 
 cartas e encomendas entre remetentes e destinatários."
 
->'FACSIMILE' ou simplesmente 'FAX':
+>>'FACSIMILE' ou simplesmente 'FAX':
 "Outro sistema que surgiu da evolução do anterior, o termo em inglês,
 fax apareceu em 1948 como forma reduzida de facsimile, “reprodução,
 por meios fotomecânicos, de um texto ou imagem” – expressão de origem
@@ -30,13 +30,13 @@ então atual e-mail, ainda muito vulneravel a ataques virtuais, mas que precisa
 continuar a ter a sua evolução.
 
 ## Então pensei em uma forma simples de melhorar a confiabilidade dos recursos 
-de troca de mensagens por IP, que seria inicialmente a inserção de um hash 
-que prove ao destinatário que a mensagem enviada pelo remetente não foi 
-adulterada e depois também pensei que uma forma de provar que o remetente 
-é realmente ele e não alguem que esteja se passando por ele.
+## de troca de mensagens por IP, que seria inicialmente a inserção de um hash 
+## que prove ao destinatário que a mensagem enviada pelo remetente não foi 
+## adulterada e depois também pensei que uma forma de provar que o remetente 
+## é realmente ele e não alguem que esteja se passando por ele.
 
-# Assim o então denominado 'e-fax' passara a ser a evolução do atual 'e-mail'!
+# Assim o então denominado **'e-fax'** passara a ser a evolução do atual **'e-mail'**!
 
 ### Para garantir ao recurso de comunicação que possa seguir cumprindo seu papel 
-sem que os agora vilões digitais estraguem toda nossa evolução.
+### sem que os agora vilões digitais estraguem toda nossa evolução.
 
