@@ -1,4 +1,12 @@
-#Forma possivel de obtenção de confirmação do envio pelo remetente ao destinatário:
+# Forma possivel de obtenção da confirmação do envio de uma mansagem de *'e-fax'* pelo remetente ao destinatário:  
 
-##Utilizando o recurso de; {solcitação de confirmação de recebimento} e {confirmação de recebimento} mas de forma invertida, na figura de um recurso de; {solicitação de confirmação de envio} e {confirmação de envio} será possivel fazer a verificação de autenticidade do remetente da mensagem ao destinatário que a recebeu.
+## Utilizando um recurso similar ao de; {solcitação de confirmação de recebimento} e {resposta de confirmação de recebimento}, mas de forma contraria, na figura de um recurso de; {solicitação de checagem de envio} e {confirmação de verificação de envio} será possivel fazer a verificação de autenticidade do remetente da mensagem ao destinatário que a recebeu.  
 
+### Então o procedimento seria:  
+1. após um remetente enviar uma mensagem de *'e-fax'* a um destinatário, o _serviço de caixa de entrada_ que está recebendo essa mensagem irá disparar de volta ao endereço do remetente dessa mensagem uma pergunta de verificação, tipo; "você me enviou essa mensagem; '<metadados_da_mensagem>'", (onde a mensagem de verificação carregará um trecho do metadados recebido).
+2. o _servidor_ que foi acionado por esse destinatário, atraves do endereço que consta nesses metadados dessa mensagem de *'e-fax'* que esta sendo verificada, irá procurar na sua _caixa de enviados_ um cabeçalho de mensagem que corresponda aos metadados que estão sendo questionado pelo recebedor originário.
+3. assim caso o _servidor_ que foi acionado por esse destinatário encontre em sua _caixa de enviados_ um cabeçalho de mensagem que corresponda aos metadados questionado, ele irá responder ao seu inqusitor; "OK, a mensagem partiu daqui sim" (porque teria sido encontrado nesse servidor fragmentos de dados compativeis aos recebido para verificação).
+4. mas caso o  _servidor_ que foi acionado por esse destinatário não encontre em sua _caixa de enviados_ nenhum cabeçalho de mensagem que corresponda aos metadados questionado, ele então não irá responder nada ao seu inqusitor (porque não teria sido encontrado nesse servidor fragmentos de dados compativeis aos recebido para verificação).
+5. pois caso não seja uma mensagem de *'e-fax'* verdadeira, os servidores não precisam gastar tempo e processamento para negar ao verificador, que se trata de spam, mas seria possivel que isso fosse utilizado também para que atraves dessa resposta se gere algum retalhamento ao falçario.  
+  
+   
