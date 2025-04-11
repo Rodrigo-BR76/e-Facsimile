@@ -5,14 +5,14 @@ Buscar um protocolo de e-mail mais seguro.
 
 >>'CORRESPONDÊNCIA POSTAL' ou simplesmente 'CORREIO':
 "É um sistema que surgiu para transportar fisicamente cartões-postais, 
-cartas e encomendas entre remetentes e destinatários." ![caricatura cartas e cartões](/assets/images/tux.png)
+cartas e encomendas entre remetentes e destinatários." ![caricatura cartas e cartões](/assets/images/cartão_postal.jpg "Cartões") ![caricatura cartas e cartões](/assets/images/cartas.png "Cartas")
 
 >>'FACSIMILE' ou simplesmente 'FAX':
 "Outro sistema que surgiu da evolução do anterior, o termo em inglês,
 fax apareceu em 1948 como forma reduzida de facsimile, “reprodução,
 por meios fotomecânicos, de um texto ou imagem” – expressão de origem
 latina que significa “fazer igual, fazer uma cópia”, e que em português
-é grafada como “fac-símile”." ![caricatura fax](/assets/images/tux.png)
+é grafada como “fac-símile”." ![caricatura fax](/assets/images/facsimile-fax.jpeg "Facsimile")
 -----------------------------------------------------------------------
 
 E assim como após algum tempo os cartões-postais abertos evoluiram para 
