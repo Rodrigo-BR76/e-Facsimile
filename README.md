@@ -6,12 +6,12 @@ Buscar um protocolo de e-mail mais seguro.
 >>'CORRESPONDÊNCIA POSTAL' ou simplesmente 'CORREIO':
 "É um sistema que surgiu para transportar fisicamente cartões-postais, cartas e encomendas entre remetentes e destinatários."
 
-* ![ilustração](/assets/images/cartão_postal.png "Cartões") ![ilustração](/assets/images/cartas.png "Cartas")
+![ilustração](/assets/images/cartão_postal.png "Cartões") ![ilustração](/assets/images/cartas.png "Cartas")
 
 >>'FACSIMILE' ou simplesmente 'FAX':
 "Outro sistema que surgiu da evolução do anterior, o termo em inglês, fax apareceu em 1948 como forma reduzida de facsimile, “reprodução, por meios fotomecânicos, de um texto ou imagem” – expressão de origem latina que significa “fazer igual, fazer uma cópia”, e que em português é grafada como “fac-símile”."
 
-* ![ilustração](/assets/images/facsimile-fax.png "Facsimile")
+![ilustração](/assets/images/facsimile-fax.png "Facsimile")
 -----------------------------------------------------------------------
 
 * E assim como após algum tempo os cartões-postais abertos evoluiram para 
@@ -31,7 +31,7 @@ continuar a ter a sua evolução.
 ## Então pensei em uma forma simples de melhorar a confiabilidade dos recursos de troca de mensagens por IP, que seria inicialmente a inserção de um hash que prove ao destinatário que a mensagem enviada pelo remetente não foi adulterada e depois também pensei que uma forma de provar que o remetente é realmente ele e não alguem que esteja se passando por ele.
 
 # Assim o então denominado **'e-fax'** passara a ser a evolução do atual **'e-mail'**!
-* ![ilustação](/assets/images/e-fax_estilo.png "protocolo e-fax")
+![ilustação](/assets/images/e-fax_estilo.png "protocolo e-fax")
 
 ### Para garantir ao recurso de comunicação que possa seguir cumprindo seu papel sem que os agora vilões digitais estraguem toda nossa evolução.
 
