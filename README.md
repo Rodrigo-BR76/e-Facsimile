@@ -1,5 +1,6 @@
 # Projeto e-Facsimile  
 ==Buscar um protocolo de e-mail mais seguro==  
+
 -----------------------------------------------------------------------
 >**Definições dos termos envolvidos;**
 >>'CORRESPONDÊNCIA POSTAL' ou simplesmente 'CORREIO':  
