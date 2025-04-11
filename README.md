@@ -19,12 +19,23 @@ E assim como após algum tempo os cartões-postais abertos evoluiram para
 cartas sigilosas lacradas e depois surgiram tecnologias que permitiram 
 o envio das mensagens por meios eletronicos no formato de imagens dos 
 documentos atraves de linhas telefonicas. 
-Agora ao vivermos a era das mensagens enviadas digitalemnte pelos 
-computadores, chamados e-mail, que por analogia ao sistema tradicional 
+Agora ao vivermos a era das mensagens enviadas digitalmente pelos 
+computadores, os chamados e-mail, que por analogia ao sistema tradicional 
 de envios, passou pela evolução daquele formato fisico para uma forma 
-mais eficiente e agil de transmição mas que também já ficou ultrapassado, 
-pelas linhas telefonicas por imagem aberta dos documentos e posteriormente 
-agora pela internet e o envio dessas mesmas informações pelo então atual 
-e-mail, muito vulneravel a ataques virtuais, precisa continuar sua 
-evolução.
+mais eficiente e agil de transmição pelas linhas telefonicas por imagem 
+aberta dos documentos, mas que também já ficou ultrapassado, e posteriormente 
+agora pela internet o envio dessas mesmas informações pelo então atual 
+e-mail, muito vulneravel a ataques virtuais, mas que precisa continuar a 
+ter a sua evolução.
+
+Então pensei em uma forma simples de melhorar a confiabilidade dos recursos 
+de troca de mensagens por IP, que seria inicialmente a inserção de um hash 
+que prove ao destinatário que a mensagem enviada pelo remetente não foi 
+adulterada e depois também pensei que uma forma de provar que o remetente 
+é realmente ele e não alguem que esteja se passando por ele.
+
+Assim o então denominado 'e-fax' passara a ser a evolução do atual 'e-mail'!
+
+Para garantir ao recurso de comunicação que possa seguir cumprindo seu papel 
+sem que os agora vilões digitais estraguem toda nossa evolução.
 
