@@ -39,7 +39,7 @@ continuar a ter a sua evolução.
 ---  
 :bulb:
 ### Assim o então denominado **'e-fax'**, passará a ser a nova evolução do atual **'e-mail'**!  
-<img src="/assets/images/e-fax_estilo.png" width="100" height="100">  *permitindo que possamos continuar a utilizar esse recurso sem o transtorno que é atualmente o pesadelo ao abrir uma mensagem em nossa caixa postal virtual!*
+<img src="/assets/images/e-fax_estilo.png" width="100" height="100">  *permitindo que possamos continuar a utilizar esse recurso sem o transtorno que é atualmente, em nossas caixas postais virtual, o pesadelo de abrir uma mensagem de 'spam', sem perceber que é um e-mail de golpe!*
 
 ---  
 :warning:
