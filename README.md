@@ -13,7 +13,7 @@
 >> *"Outro sistema que surgiu da evolução do anterior, o termo em inglês, fax apareceu em 1948 como forma reduzida de facsimile, “reprodução, por meios fotomecânicos, de um texto ou imagem” – expressão de origem latina que significa “fazer igual, fazer uma cópia”, e que em português é grafada como “fac-símile”."*  
 >>  
 >>![ilustração](/assets/images/facsimile-fax.png "Facsimile")  
-
+---  
   
 * E assim como após algum tempo os cartões-postais abertos evoluiram para 
 cartas sigilosas lacradas e depois surgiram tecnologias que permitiram 
