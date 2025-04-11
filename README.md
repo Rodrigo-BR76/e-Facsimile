@@ -23,8 +23,8 @@ mas que também já ficou obsoleto e ultrapassado, e posteriormente substituido
 agora pela transmição via internet onde o envio dessas mesmas informações pelo 
 então atual e-mail, ainda muito vulneravel a ataques virtuais, mas que precisa 
 continuar a ter a sua evolução.  
-![ilustração](/assets/images/e44f570e28e3b7c8df68e2834929ad8b.jpg "segurança da época")
-
+![ilustração](/assets/images/e44f570e28e3b7c8df68e2834929ad8b.jpg "segurança da época")  
+  
 ### Então pensei em uma forma simples de melhorar a confiabilidade dos recursos de troca de mensagens por IP, que seria inicialmente;  
 1. ***a inserção de um hash que prove ao destinatário que a mensagem enviada pelo remetente não foi adulterada,***
 2. ***e depois publicar uma forma de provar que o remetente é realmente ele e não alguem que esteja se passando por ele.***
