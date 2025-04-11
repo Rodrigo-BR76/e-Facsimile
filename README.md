@@ -28,7 +28,7 @@ mas que também já ficou obsoleto e ultrapassado, e posteriormente substituido
 agora pela transmição via internet onde o envio dessas mesmas informações pelo 
 então atual e-mail, ainda muito vulneravel a ataques virtuais, mas que precisa 
 continuar a ter a sua evolução.  
-<img src="/assets/images/e44f570e28e3b7c8df68e2834929ad8b.jpg" width="300" height="400">  
+<img src="/assets/images/e44f570e28e3b7c8df68e2834929ad8b.jpg" width="500" height="300">  
   
 ---  
 :memo:
