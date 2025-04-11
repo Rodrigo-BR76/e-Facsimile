@@ -1,7 +1,7 @@
 # Projeto e-Facsimile  
-[ Buscar um protocolo de e-mail mais seguro ]  
+{ Buscar um protocolo de e-mail mais seguro }  
 -----------------------------------------------------------------------
-  
+---
 >**Definições dos termos envolvidos;**
 >>'CORRESPONDÊNCIA POSTAL' ou simplesmente 'CORREIO':  
 >> *"É um sistema que surgiu para transportar fisicamente cartões-postais, cartas e encomendas entre remetentes e destinatários."*  
