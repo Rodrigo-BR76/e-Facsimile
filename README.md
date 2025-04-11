@@ -1,5 +1,5 @@
 # Projeto e-Facsimile  
-{ Buscar um protocolo de e-mail mais seguro }  
+[{ Buscar um protocolo de e-mail mais seguro }]([  assets/carateristicas_desejadas.md](https://github.com/Rodrigo-BR76/e-Facsimile/blob/1f49fbb2291763ce234c1ce285bd6f78eb940ce8/assets/carateristicas_desejadas.md))
 -----------------------------------------------------------------------
 ---
 >**Definições dos termos envolvidos;**
