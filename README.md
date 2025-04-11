@@ -36,10 +36,10 @@ ________________________________________________________________________________
 2. ***e depois publicar uma forma de provar que o remetente é realmente ele e não alguem que esteja se passando por ele.***
 
 :bulb:
-###Assim o então denominado **'e-fax'**, passará a ser a nova evolução do atual **'e-mail'**!  
-<img src="e-fax_estilo.png" width="100" height="100">![ilustação](/assets/images/e-fax_estilo.png "protocolo e-fax")  
+### Assim o então denominado **'e-fax'**, passará a ser a nova evolução do atual **'e-mail'**!  
+<img src="/assets/images/e-fax_estilo.png" width="150" height="150">![ilustação](/assets/images/e-fax_estilo.png "protocolo e-fax")  
 ( *-permitindo que possamos continuar a utilizar esse recurso sem o transtorno que é atualmente o pesadelo ao abrir uma mensagem em nossa caixa postal virtual!* )  
 
 :warning:
-###Para garantir ao recurso de comunicação que possa seguir cumprindo seu papel sem que os vilões digitais estraguem toda esse nossa evolução.  
+### Para garantir ao recurso de comunicação que possa seguir cumprindo seu papel sem que os vilões digitais estraguem toda esse nossa evolução.  
 ![ilustação](/assets/images/Mailboxes.jpg "caixas postais")  
