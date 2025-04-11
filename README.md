@@ -5,7 +5,8 @@ Buscar um protocolo de e-mail mais seguro.
 
 >>'CORRESPONDÊNCIA POSTAL' ou simplesmente 'CORREIO':
 "É um sistema que surgiu para transportar fisicamente cartões-postais, 
-cartas e encomendas entre remetentes e destinatários." ![caricatura cartas e cartões](/assets/images/cartão_postal.jpg "Cartões") ![caricatura cartas e cartões](/assets/images/cartas.png "Cartas")
+cartas e encomendas entre remetentes e destinatários." ![caricatura cartas e cartões](/assets/images/cartão_postal.jpg "Cartões")
+>>![ilustração](/assets/images/cartas.png "Cartas")
 
 >>'FACSIMILE' ou simplesmente 'FAX':
 "Outro sistema que surgiu da evolução do anterior, o termo em inglês,
